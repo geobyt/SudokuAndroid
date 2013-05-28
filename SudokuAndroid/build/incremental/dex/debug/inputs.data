@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369413441246 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\libs\android-support-v4.jar
+1369617036026 597 c359d0e5ad827c5212065c664d7d4fc9bca72a98 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\SudokuView$1.class
+1369613589435 1409 3049388bf7aa563d55b0f0a3de7214cb6b85e891 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\PlayGame.class
+1369413591955 359 4d7606575eb07b18cf49d9bcf11d031e4439870b C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\BuildConfig.class
+1369618194510 477 0258089f7cc786b7b9909d785ff5147311fc3032 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$id.class
+1369618194513 452 4a1f61934c670f66e50c59becf1e0e5ce1e78129 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$layout.class
+1369594233754 840 679a81711783eb49d405c5fb8bfff6a07614ef5a C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\MainActivity$1.class
+1369618194519 558 50b5fdc7628b17a7884ba8b0284344a26607d2aa C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$string.class
+1369618194508 725 1946c64c1565fc2791766ae8ad10d6f5397c7da4 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$drawable.class
+1369618194523 452 4d336c58fcf332b9495d2975310cbc3862b6d292 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$style.class
+1369617036043 2470 dc54bfdda36f6bc736edd9cfc524e7acfe771c1a C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\SudokuView.class
+1369594233759 1704 a37a98f76e721671217762e852feb4ef636cb39e C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\MainActivity.class
+1369413591893 482 1725985f0bb78c3168945de3e0461045836bf69b C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$dimen.class
+1369413591863 361 808a1a94cb4422469c29b734b61d88ca303f7c57 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$attr.class
+1369618194516 409 3e53e2cbeac84289a8133c5c720b44c6f267618b C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R$menu.class
+1369618194525 747 81ac0feebed720a33d20dc9dd6b1b329b6ac4352 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\R.class
+1369619305987 6606 8b2167be0c24c3816e4e2ef2adcb19b2c5160231 C:\Users\George\AndroidStudioProjects\SudokuAndroid\SudokuAndroid\build\classes\debug\com\example\sudokuandroid\SudokuView$SudokuThread.class
