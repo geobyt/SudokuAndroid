@@ -9,7 +9,7 @@ buildscript {
 apply plugin: 'android'
 
 dependencies {
-    compile files('libs/android-support-v4.jar')
+    compile files('libs/android-support-v4.jar', 'libs/smack-3.2.1.jar', 'libs/smackx-3.2.1.jar')
 }
 
 android {
