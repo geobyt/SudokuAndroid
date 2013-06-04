@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.ListView;
 
 import com.example.sudokuandroid.SudokuView.SudokuThread;
+import com.example.sudokuandroid.models.ConversationItem;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -42,11 +43,13 @@ public class PlayGame extends Activity {
 
         getActionBar().hide();
 
-        List<String> chatArray = new ArrayList<String>(
-                Arrays.asList("hello", "world", "here's a list")
-        );
+        List<ConversationItem> chatArray = new ArrayList<ConversationItem>() {{
+            add(new ConversationItem("ken2@yogax", "hello"));
+            add(new ConversationItem("ken2@yogax", "world"));
+            add(new ConversationItem("ken2@yogax", "yay"));
+        }};
 
-        ChatArrayAdapter adapter = new ChatArrayAdapter(this, R.layout.chat_list_item, new String[] {"hello", "world", "ya"});
+        ChatArrayAdapter adapter = new ChatArrayAdapter(this, R.layout.chat_list_item, chatArray);
 
         ListView listView = (ListView)findViewById(R.id.chatListView);
         listView.setAdapter(adapter);
